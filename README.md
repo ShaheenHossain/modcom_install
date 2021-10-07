@@ -8,7 +8,7 @@ This script can be safely used in a multi-odoo code base server because the defa
 <h3>Installation procedure 14 enterprise with ssl nginx</h3>
 
 
-sudo wget https://raw.githubusercontent.com/ShaheenHossain/modcom_install/modcom_14c.sh
+sudo wget https://raw.githubusercontent.com/ShaheenHossain/modcom_install/modcom_c1470/modcom_c1470-install.sh
 
 sudo chmod +x eagle-ent1456-install.sh
 
