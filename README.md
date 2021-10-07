@@ -10,9 +10,9 @@ This script can be safely used in a multi-odoo code base server because the defa
 
 sudo wget https://raw.githubusercontent.com/ShaheenHossain/modcom_install/modcom_c1470/modcom_c1470-install.sh
 
-sudo chmod +x eagle-ent1456-install.sh
+sudo chmod +x modcom_c1470-install.sh
 
-sudo ./eagle-ent1456-install.sh
+sudo ./modcom_c1470-install.sh
 
 
 
